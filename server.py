@@ -1,2 +1,2 @@
-from codestar.wsgi import application
+# from codestar.wsgi import application
 
