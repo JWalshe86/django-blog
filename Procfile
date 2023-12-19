@@ -1,1 +1,1 @@
-web: waitress-serve --port=%PORT% --log-file -
+web: waitress-serve codestar.wsgi --log-file -
