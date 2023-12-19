@@ -1,1 +1,1 @@
-web: gunicorn codestar.wsgi --log-file -
+web: waitress codestar.wsgi --log-file -
