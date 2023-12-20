@@ -1,1 +1,1 @@
-web: gunicorn codestar.wsgi --log-file -
+web: waitress-serve --port:$PORT codestar.wsgi:application
