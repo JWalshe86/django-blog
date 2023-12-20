@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECRET_KEY = 'django-insecure-!q%57uf)gn9*+an(ttpl%%oqae68xfs_a)bz766m+87v*d$4++'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['django-blog21-3b47109d7b58.herokuapp.com', '127.0.0.1']
 
@@ -76,12 +76,10 @@ DATABASES = {
     'default': dj_database_url.parse(os.environ.get("DATABASE_URL"))
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
-#     }
-# }
+CSRF_TRUSTED_ORIGINS = [
+    "http://*127.0.0.1",
+    "https://*.herokuapp.com"
+]
 
 
 # Password validation

@@ -1,0 +1,144 @@
+[33mcommit 0d7613754f095093af9eac0c0f05805664003d7f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 10:28:41 2023 +0000
+
+    change requirements
+
+[33mcommit 69d45ced8e6b06efa421f91db692485099df6286[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 10:25:42 2023 +0000
+
+    change requirements
+
+[33mcommit 0d76e75872995c1db9d55b3cd4c29a5ad4895700[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 10:18:00 2023 +0000
+
+    update Procfile
+
+[33mcommit 4823e56304262fc9a8179154fd620c1717bb534c[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 10:10:31 2023 +0000
+
+    update Procfile
+
+[33mcommit b124a98c358a7f982d2d7603fdabd497e4e439b1[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 09:59:56 2023 +0000
+
+    change gunicorn to waitress
+
+[33mcommit 5f2e5f0b091f22bcf73828f05a3333830075440c[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 09:47:53 2023 +0000
+
+    create server.py
+
+[33mcommit 9b5a13dc8da5da230b38eaa2e6eebff0955f73a6[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 09:43:23 2023 +0000
+
+    waitress use
+
+[33mcommit 4dceb7488b3f2ce627453c180cb42d67f2ba381b[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 09:25:52 2023 +0000
+
+    update requirements.txt
+
+[33mcommit ebcb2b25f3cab62829c7496a084678a5065ceaef[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 09:24:47 2023 +0000
+
+    update requirements.txt
+
+[33mcommit b6d6157cc7128a836a1a2dbec3c2aa4047be8a70[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 09:20:00 2023 +0000
+
+    remove b from rb
+
+[33mcommit f8628b032819d8f77d5badaa924500b1017a1536[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 09:16:52 2023 +0000
+
+    remove b from rb
+
+[33mcommit a3cf8441e19d505cf4b6676fda3883f43f36fc44[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Tue Dec 19 08:54:38 2023 +0000
+
+    change rb to r
+
+[33mcommit 46c9038b2ba229c908873908488c13e67fe7db63[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Mon Dec 18 19:51:56 2023 +0000
+
+    adds POST to django
+
+[33mcommit d867fb2ca74199d0f8d003f2bd688d0c97f322e6[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Mon Dec 18 18:16:25 2023 +0000
+
+    dj_database_url works
+
+[33mcommit 6de67b1e9a10797a6fea2b880187f84599e65143[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Mon Dec 18 16:59:13 2023 +0000
+
+    update
+
+[33mcommit 6bbd785c77d60289053d9558acd8bc9c46ebc70b[m
+Merge: 62c23d1 6210a8b
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Mon Dec 18 13:50:19 2023 +0000
+
+    Merge branch 'main' of https://github.com/JWalshe86/django-blog
+
+[33mcommit 62c23d1c313bbfeeeb4ea51fd5b94e381daf7f59[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Mon Dec 18 13:49:13 2023 +0000
+
+    gunicorn
+
+[33mcommit 6210a8b5b1619b961aafddf89b1c6b8f52a88323[m
+Author: John  Walshe <139468339+JWalshe86@users.noreply.github.com>
+Date:   Mon Dec 18 13:30:02 2023 +0000
+
+    Create Procfile
+
+[33mcommit 1eee18142b54f92fb0662832fb5509df21fa29e5[m
+Author: John  Walshe <139468339+JWalshe86@users.noreply.github.com>
+Date:   Mon Dec 18 13:29:30 2023 +0000
+
+    Delete Procfile
+
+[33mcommit 0e20695fbac90740eb2544a5794bec01f6ac6bf6[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Mon Dec 18 13:19:35 2023 +0000
+
+    new python version
+
+[33mcommit 0fd6651e10378c0f3062339ecf49702d7cf01a20[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Mon Dec 18 13:08:23 2023 +0000
+
+    new python version
+
+[33mcommit 16e11c83d462315b8362492cc1963c632ac285f6[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Mon Dec 18 13:03:19 2023 +0000
+
+    new python version
+
+[33mcommit ba9d66cedcca0c2828f23258be28405fef1c1191[m
+Author: John Walshe <walshejohnnyw7@gmail.com>
+Date:   Mon Dec 18 12:44:22 2023 +0000
+
+    add heroku deployment setup
+
+[33mcommit 0ec16c4a0648ef56373641fac9d5322560be4efe[m
+Author: John  Walshe <139468339+JWalshe86@users.noreply.github.com>
+Date:   Sun Dec 17 21:09:04 2023 +0000
+
+    Update issue templates
